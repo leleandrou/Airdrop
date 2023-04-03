@@ -1,0 +1,157 @@
+html{
+	background: #303d47;
+	background: -moz-linear-gradient(top, #303d47 0%, #20333f 21%, #1e313e 21%, #1b303d 27%, #18303c 28%, #192e3c 30%, #112b38 36%, #112837 42%, #082331 50%, #092432 53%, #031c2c 63%, #041d2d 65%, #011a2a 69%, #011a2a 100%);
+	background: -webkit-linear-gradient(top, #303d47 0%,#20333f 21%,#1e313e 21%,#1b303d 27%,#18303c 28%,#192e3c 30%,#112b38 36%,#112837 42%,#082331 50%,#092432 53%,#031c2c 63%,#041d2d 65%,#011a2a 69%,#011a2a 100%);
+	background: linear-gradient(to bottom, #303d47 0%,#20333f 21%,#1e313e 21%,#1b303d 27%,#18303c 28%,#192e3c 30%,#112b38 36%,#112837 42%,#082331 50%,#092432 53%,#031c2c 63%,#041d2d 65%,#011a2a 69%,#011a2a 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#303d47', endColorstr='#011a2a',GradientType=0 );
+	}
+body{
+	font-family: gill sans, sans-serif;
+	color: white;
+	}
+a.logo:link {
+  color:#FFFFFF;
+  background-color:#000000;
+  text-decoration:none;
+}
+a.logo:visited {
+  color:#FFFFFF;
+  text-decoration:line-through;
+}
+a.logo:hover {
+  color:#FFFFFF;
+  background-color:#ff0000;
+  text-decoration:none;
+}
+a.logo:active {
+  color:#FFFFFF;
+  text-decoration:none;
+  background-color:#000000;
+}
+button{
+  background-color: #0d78db; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+.cabeçalho{
+	position: relative;
+	width: 1350px;
+	height: 60px;
+	bottom: 20px;
+	right: 10px;
+	background-color: #0F161D;
+}
+#logo{
+	cursor: pointer;
+	width: 170px;
+	height: 100px;
+	text-align: center;
+	vertical-align: center;
+}
+.destaques{
+	text-align: center;
+}
+
+.PS4{
+	width: 350px;
+	height: 370px;
+	display: inline-block;
+}
+
+#cyberpunk{
+	width: 350px;
+	height: 370px;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+.mf{
+	text-align: center;
+}
+
+#horizon{
+	width: 200px;
+	height: 335px;
+	display: inline-block;
+}
+#cyberpunk1{
+	width: 200px;
+	height: 335px;
+	display: inline-block;
+}
+#infamous{
+	width: 200px;
+	height: 335px;
+	display: inline-block;
+}
+.empty{
+	height: 30px;
+}
+#gow{
+	width: 200px;
+	height: 375px;
+	display: inline-block;
+}
+#ragnarok{
+	width: 200px;
+	height: 375px;
+	display: inline-block;
+}
+#tlou{
+	width: 200px;
+	height: 375px;
+	display: inline-block;
+}
+
+.md{
+	text-align: center;
+}
+
+#deadcells{
+	width: 200px;
+	height: 330px;
+	display: inline-block;
+}
+#stray{
+	width: 200px;
+	height: 330px;
+	display: inline-block;
+}
+#hollowknight{
+	width: 200px;
+	height: 330px;
+	display: inline-block;
+}
+#superhot{
+	width: 200px;
+	height: 370px;
+	display: inline-block;
+}
+#undertale{
+	width: 200px;
+	height: 370px;
+	display: inline-block;
+}
+
+.consoles{
+	text-align: center;
+}
+#xone{
+	width: 350px;
+	height: 370px;
+	display: inline-block;
+}
+.rodapé{
+	position: relative;
+	width: 1351px;
+	height: 100px;
+	bottom: -10px;
+	right: 10px;
+	background-color: #0F161D;
+	text-align: center;
+}
